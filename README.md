@@ -1,3 +1,3 @@
-# GraphQL test code for front-end
+# GraphQL test code for back-end
 
 start with `npm run dev` (port = 4000)
